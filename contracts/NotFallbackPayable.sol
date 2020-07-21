@@ -1,0 +1,3 @@
+contract NotFallbackPayable {
+	function() external { }
+}
